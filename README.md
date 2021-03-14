@@ -58,14 +58,6 @@ Key component of the notification. Wrappers for notification message.
 <NotificationList><App/></NotificationList>
 ```
 
-Wrapper component for form fields
-
-```bash
-<FormWrapper errors={errors} form={defaultValue}>
-    fields form
-<FormWrapper/>
-```
-
 Hooks for create message.
 
 ```bash
